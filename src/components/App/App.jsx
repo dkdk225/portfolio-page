@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import "./common.css";
 
 function App() {
   const [count, setCount] = useState(0)
