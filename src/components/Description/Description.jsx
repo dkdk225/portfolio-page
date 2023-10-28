@@ -8,7 +8,7 @@ export default function Description() {
         <h1 className="description-header1 header1">Hello,</h1>
         <h1 className="description-header2 header2">my name is Deniz</h1>
         <p className="description-paragraph paragraph">
-          I'm the architect of virtual realms, where algorithms dance and pixels
+          I'm the architect of virtual realms, where pixels dance and algorithms
           find purpose.
         </p>
         <Socials></Socials>
