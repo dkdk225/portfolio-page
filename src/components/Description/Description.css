@@ -1,0 +1,14 @@
+.description{
+  max-width: 35em;
+  min-width:20em;
+  position:absolute;
+  left: var(--left-spacing);
+  top:43%;
+  transform: translateY(-50%);
+}
+.description-header1{
+  margin-bottom: -0.2em !important;
+}
+.description-header2{
+  margin-bottom: 0.4em !important;
+}
