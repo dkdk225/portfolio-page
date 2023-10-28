@@ -1,8 +1,8 @@
 import { Description } from "../Description";
+import "./App.css"
 import "./common.css";
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
   <div className="app">
